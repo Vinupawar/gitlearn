@@ -1,4 +1,4 @@
-print("Hello Git!")
+print("GitHub version!")
 print("this is version 2!")
 print("payment feature added!")
 print("payment feature added 33333!")
